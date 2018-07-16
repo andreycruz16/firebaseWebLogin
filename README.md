@@ -1,4 +1,4 @@
-# firebaseWebLogin
-sample credentials below
+## firebaseWebLogin
+
 email: markandreydelacruz@ymail.com 
 pass: mark123!
